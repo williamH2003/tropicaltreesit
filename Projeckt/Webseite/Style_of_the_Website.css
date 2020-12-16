@@ -1,0 +1,21 @@
+
+body {background-color: rgb(49, 58, 72)}
+
+h1 {color: green}
+h2 {color: white; font-family: Calibri; font-style: italic;}
+
+
+p {color: white; font-family: Calibri;}
+pre {color: white; font-family: Calibri;}
+
+input {color: black; background-color: #4CAF50}
+
+
+form {color: white; font-family: Calibri;}
+label {color: white;}
+
+footer {background-color: #4CAF50}
+
+
+
+
